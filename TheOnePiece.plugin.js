@@ -1,7 +1,7 @@
 /**
  * @name TheOnePiece
  * @author Erdi
- * @description Every time "the one piece" or "can we get much higher" is said, the iconic meme sound is played
+ * @description Every time "the one piece is real" or "can we get much higher" is said, the iconic meme sound is played
  * @version 1.0.0
  */
 
